@@ -1,0 +1,19 @@
+{
+    "studentList": [
+        {
+            "firstName": "Avery",
+            "lastName": "Hillstrom",
+            "email": "ahillstrom@sjcoe.net",
+            "phoneNumber": "2095555555"
+        },
+
+        {
+            "firstName": "Ellie",
+            "lastName": "Rasuli",
+            "email": "erasuli@sjcoe.net",
+            "phoneNumber": "2095555555"
+        }
+
+
+    ]
+}
